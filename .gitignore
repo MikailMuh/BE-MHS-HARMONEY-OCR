@@ -18,6 +18,6 @@ env/
 .DS_Store
 Thumbs.db
 
-# PaddleOCR cache
+# PaddleOCR cache (jangan commit!)
 .paddleocr/
 ~/.paddleocr/
